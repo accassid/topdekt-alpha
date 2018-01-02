@@ -20,4 +20,4 @@ Here are some  features that we are in the process of implementing so as to avoi
   - Export deck options (txt,csv)
   - Add edition support to text eidtor
   
-  [![N|Solid](http://35.227.116.35/static/media/Logo.537b20f3.png)](https://nodesource.com/products/nsolid )
+  [![N|Solid](http://35.227.116.35/static/media/Logo.537b20f3.png)]
