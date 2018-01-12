@@ -1,9 +1,8 @@
-# Turnbased - Alpha Issue Repo
+# Topdekt - Alpha Issue Repo
 Thank you for taking part in the Turnbarsed Alpha test! If you find any problems with the website, or have any suggestions for features, please create an issue (the tab above) and we'll add it to our board.
 
 ### Coming Features
 Here are some  features that we are in the process of implementing so as to avoid duplicates.
-  - Sandbox mode (unregistered users can interract with the editor)
   - Account settings (update password, bio, etc.)
   - Changing card edition
   - Autocomplete for the card search bar
