@@ -1,4 +1,4 @@
-# Topdekt - Alpha Issue Repo
+# TopDekt - Alpha Issue Repo
 Thank you for taking part in the Turnbarsed Alpha test! If you find any problems with the website, or have any suggestions for features, please create an issue (the tab above) and we'll add it to our board.
 
 ### Coming Features
